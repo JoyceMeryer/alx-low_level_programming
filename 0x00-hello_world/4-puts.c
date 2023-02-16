@@ -1,11 +1,10 @@
 #include <stdio.h>
 /**
- * main - prints the phrase with proper grammar,
- * but the outcome is a piece of art,
- * Return: 0 if exited properly, non-zero otherwise
+ * main - A program which prints a line with puts function
+ * Return: 0 (success)
  */
 int main(void)
 {
-	printf("with proper grammar, bt the outcome is a piece of art, \n");
-	return (0)
-} 
+puts ("\"Programming is like building a multilingual puzzle");
+return (0);
+}
